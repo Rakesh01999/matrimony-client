@@ -33,6 +33,14 @@ Matrimony Mate is an advanced matrimonial platform designed to bring people toge
 
 10. **Premium Features**: Access exclusive features and benefits by upgrading to a premium membership, including highlighted profiles and priority support.
 
+## Used Technology
+* React
+* Firebase
+* Javascript
+* MongoDB
+* Tailwind
+* Material UI
+
 ## How to Use
 
 1. **Sign Up**: Create an account by providing basic details and verifying your email address.
