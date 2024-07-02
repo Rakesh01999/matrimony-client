@@ -45,4 +45,3 @@ Matrimony Mate is an advanced matrimonial platform designed to bring people toge
 
 For any support or inquiries, please contact at rbiswas01999@gmail.com.
 
-We hope you find your perfect match with Matrimony Mate!
