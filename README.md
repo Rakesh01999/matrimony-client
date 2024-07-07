@@ -2,7 +2,7 @@
 
 **Live Site:** [Matrimony Mate](https://matrimony-mate.web.app/)
 
-### Server Side: 
+## Server Side
 [Github Repo](https://github.com/Rakesh01999/matrimony-server)
 
 ## Admin Credentials
